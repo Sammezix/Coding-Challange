@@ -1,0 +1,72 @@
+body{
+  margin: 0;
+  font-family: cursive;
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 1%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 5%;
+;}
+
+header > img{
+  width: 25%;
+}
+
+header > span{
+ color: #00DD00;
+ font-size: 30px;
+ font-family: sans-serif;
+}
+
+nav{
+  background-color: #00DD00;
+  padding: 10px;
+  margin-top: 7px;
+}
+
+main{
+  text-align: left;
+  margin-top: 30px;
+}
+
+div > span strong{
+  font-size: 25px;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+
+div > span{
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+div > div{
+  border-radius: 4px;
+}
+
+main > div{
+ padding-bottom: 50px;
+}
+
+.progress-bar1{
+  background-color: rgba(200, 150, 50);
+}
+
+.progress-bar2{
+  background-color: rgba(30, 200, 20);
+}
+
+.progress-bar3{
+  background-color: rgba(220, 50, 50);
+}
+
+footer{
+  font-style: italic;
+  border-bottom: solid white 1px;
+}
